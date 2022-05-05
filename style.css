@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+/*****************************Style-Guide-start********************************/
 color{
     color: hsl(193, 38%, 86%); /*Light Cyan*/
     color: hsl(150, 100%, 66%); /*Neon Green*/
@@ -17,6 +18,7 @@ fonts{
    font-size: 28px; /*(quote)*/
    font-weight: 800;
 }
+/*****************************Style-Guide-start********************************/
 
 html{
     font-size: 65.7%;
@@ -89,9 +91,6 @@ main{
     width: 2.5rem;
     height: 2.5rem;
 }
-
-
-
 
 
 /* Attribution */
